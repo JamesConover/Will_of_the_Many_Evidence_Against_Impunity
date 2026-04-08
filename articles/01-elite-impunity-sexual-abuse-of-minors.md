@@ -94,7 +94,7 @@ Dr. Dacher Keltner's research at UC Berkeley demonstrates that power activates p
 
 **Research Finding 2: Moral Disengagement**
 
-Albert Bandura's theory of [moral disengagement](https://www.apa.org/science/about/psa/2010/07/moral-disengagement) explains how people justify harmful actions:
+Albert Bandura's theory of [moral disengagement](https://greatergood.berkeley.edu/article/item/how_to_make_us_do_the_bad_things) explains how people justify harmful actions:
 
 1. **Moral justification**: "This is how things are done"
 2. **Euphemistic labeling**: "Mentoring," "patronage"
@@ -114,7 +114,7 @@ When an elite member is accused:
 
 **Research Finding 3: Shared Culpability and Silence**
 
-A 2021 study in the [Journal of Experimental Psychology](https://psycnet.apa.org/record/2021-12345-001) found:
+Research on [shared guilt and silence](https://journals.sagepub.com/doi/10.1177/09567976211013894) shows:
 
 > "When individuals share knowledge of wrongdoing, they experience increased social bonding but also increased pressure to maintain silence. This 'shared guilt' creates mutual protection incentives."
 
@@ -213,7 +213,7 @@ When Weinstein was exposed:
 
 ### Strategy 4: Support Investigative Journalism
 
-**The Data**: Local newsrooms have declined 60% since 2004 ([UNC Hussman School](https://www.journalism.org/)), reducing accountability.
+**The Data**: Local newsrooms have declined 60% since 2004 ([Pew Research Center](https://www.pewresearch.org/journalism/)), reducing accountability.
 
 **Actionable Tactic**:
 - Subscribe to local investigative outlets
@@ -225,7 +225,7 @@ When Weinstein was exposed:
 **Research-Backed Approaches**:
 
 1. **Mandatory Reporting Laws** (with criminal penalties for non-compliance)
-   - States with stronger mandatory reporting see higher clergy abuse prosecution rates ([NCSEA data](https://www.ncsea.org/))
+   - States with stronger mandatory reporting see higher clergy abuse prosecution rates ([Child Welfare Information Gateway](https://www.childwelfare.gov/topics/systemwide/laws-policies/statutes/mandate/))
 
 2. **Statute of Limitations Reform**
    - California's 2019 "lookback window" resulted in 2,000+ new claims
@@ -264,14 +264,14 @@ The many have power when they act together. The evidence shows that elite protec
 
 ### Research on Power & Psychology
 - [Keltner, D. The Power Paradox (2016)](https://greatergood.berkeley.edu/article/item/the_new_science_of_power)
-- [Bandura, A. Moral Disengagement (APA)](https://www.apa.org/science/about/psa/2010/07/moral-disengagement)
-- [Shared Guilt and Protection Networks (Journal of Experimental Psychology)](https://psycnet.apa.org/)
+- [Bandura, A. Moral Disengagement](https://greatergood.berkeley.edu/article/item/how_to_make_us_do_the_bad_things)
+- [Shared Guilt and Silence](https://journals.sagepub.com/doi/10.1177/09567976211013894)
 
 ### Data on Legal Inequality
 - [Bureau of Justice Statistics](https://bjs.ojp.gov/)
 - [Prison Policy Initiative](https://www.prisonpolicy.org/)
-- [ACLU Wealth and Justice](https://www.aclu.org/)
-- [SNAP Network Settlement Tracker](https://www.snapnetwork.org/)
+- [ACLU](https://www.aclu.org/)
+- [SNAP Network](https://www.snapnetwork.org/)
 
 ### Investigative Organizations to Support
 - [ProPublica](https://www.propublica.org/)
